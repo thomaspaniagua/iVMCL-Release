@@ -1,4 +1,0 @@
-pytablewriter
-requests
-tqdm
-googledrivedownloader

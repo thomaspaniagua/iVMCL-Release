@@ -1,0 +1,6 @@
+[submodule "mmdetection"]
+	path = mmdetection
+	url = https://github.com/thomaspaniagua/iVMCL-MMDetection.git
+[submodule "mmcv"]
+	path = mmcv
+	url = https://github.com/thomaspaniagua/iVMCL-MMCV.git

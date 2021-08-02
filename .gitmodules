@@ -4,3 +4,6 @@
 [submodule "mmcv"]
 	path = mmcv
 	url = https://github.com/thomaspaniagua/iVMCL-MMCV.git
+[submodule "mmgeneration"]
+	path = mmgeneration
+	url = https://github.com/thomaspaniagua/iVMCL-MMGeneration.git
